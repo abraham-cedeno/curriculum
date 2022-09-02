@@ -91,7 +91,8 @@ hr {
 
 .navbar-brand {
   color: #66BFBF !important;
-  font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bold;
 }
 
 .nav-link {
@@ -673,6 +674,7 @@ h2.experiencia{
 
   .navbar {
     padding-right: 180px;
+    position:static;
   }
 
   .middle-container {
